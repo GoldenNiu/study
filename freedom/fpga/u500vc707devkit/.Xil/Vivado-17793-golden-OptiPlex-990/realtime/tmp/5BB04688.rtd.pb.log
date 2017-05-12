@@ -1,0 +1,4 @@
+xilinx rtfpga
+WARNING: [Synth 8-3917] design DefaultCoreplex_coreplex__GC0 has port io_mem_0_c_valid driven by constant 0
+WARNING: [Synth 8-3917] design DefaultCoreplex_coreplex__GC0 has port io_mem_0_e_valid driven by constant 0
+WARNING: [Synth 8-3917] design DefaultCoreplex_coreplex__GC0 has port io_mem_0_e_bits_sink driven by constant 0

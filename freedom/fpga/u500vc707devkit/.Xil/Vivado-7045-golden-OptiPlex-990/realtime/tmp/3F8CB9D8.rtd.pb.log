@@ -1,0 +1,24 @@
+xilinx rtfpga
+WARNING: [Synth 8-3917] design DefaultCoreplex_coreplex__GC0 has port io_mem_0_c_valid driven by constant 0
+WARNING: [Synth 8-3917] design DefaultCoreplex_coreplex__GC0 has port io_mem_0_e_valid driven by constant 0
+WARNING: [Synth 8-3917] design DefaultCoreplex_coreplex__GC0 has port io_mem_0_e_bits_sink driven by constant 0
+INFO: [Synth 8-3886] merging instance 'debug/CONTROLReg_access_reg[0]' (FDRE) to 'debug/CONTROLReg_buserror_reg[0]'
+INFO: [Synth 8-3333] propagating constant 1 across sequential element (debug/\CONTROLReg_access_reg[1] )
+INFO: [Synth 8-3886] merging instance 'debug/CONTROLReg_access_reg[2]' (FDRE) to 'debug/CONTROLReg_buserror_reg[0]'
+INFO: [Synth 8-3886] merging instance 'debug/CONTROLReg_autoincrement_reg' (FDRE) to 'debug/CONTROLReg_buserror_reg[0]'
+INFO: [Synth 8-3886] merging instance 'debug/CONTROLReg_buserror_reg[0]' (FDRE) to 'debug/CONTROLReg_buserror_reg[1]'
+INFO: [Synth 8-3886] merging instance 'debug/CONTROLReg_buserror_reg[1]' (FDRE) to 'debug/CONTROLReg_buserror_reg[2]'
+INFO: [Synth 8-3886] merging instance 'debug/CONTROLReg_buserror_reg[2]' (FDRE) to 'debug/CONTROLReg_reserved0_reg[9]'
+INFO: [Synth 8-3886] merging instance 'debug/CONTROLReg_reserved0_reg[0]' (FDRE) to 'debug/CONTROLReg_reserved0_reg[9]'
+INFO: [Synth 8-3886] merging instance 'debug/CONTROLReg_reserved0_reg[1]' (FDRE) to 'debug/CONTROLReg_reserved0_reg[9]'
+INFO: [Synth 8-3886] merging instance 'debug/CONTROLReg_reserved0_reg[2]' (FDRE) to 'debug/CONTROLReg_reserved0_reg[9]'
+INFO: [Synth 8-3886] merging instance 'debug/CONTROLReg_reserved0_reg[3]' (FDRE) to 'debug/CONTROLReg_reserved0_reg[9]'
+INFO: [Synth 8-3886] merging instance 'debug/CONTROLReg_reserved0_reg[4]' (FDRE) to 'debug/CONTROLReg_reserved0_reg[9]'
+INFO: [Common 17-14] Message 'Synth 8-3886' appears 100 times and further instances of the messages will be disabled. Use the Tcl command set_msg_config to change the current settings.
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (debug/\CONTROLReg_reserved0_reg[9] )
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (clint_TLFragmenter/r_error_reg)
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (plic_TLFragmenter/r_error_reg)
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (debug_TLFragmenter/r_error_reg)
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (plic/\priority_0_reg[1] )
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (cbus_TLAtomicAutomata/\T_1463_0_lut_reg[0] )
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (\AsyncQueueSource_2_1/mem_0_resp_reg[1] )

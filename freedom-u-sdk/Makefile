@@ -21,7 +21,8 @@ linux_srcdir := $(srcdir)/linux
 linux_wrkdir := $(wrkdir)/linux
 linux_defconfig := $(confdir)/linux_defconfig
 linux_release := linux-4.6.2.tar.xz
-linux_url := ftp://ftp.kernel.org/pub/linux/kernel/v4.x
+@linux_url := ftp://ftp.kernel.org/pub/linux/kernel/v4.x
+linux_url := https://www.kernel.org/pub/linux/kernel/v4.x
 
 vmlinux := $(linux_wrkdir)/vmlinux
 vmlinux_stripped := $(linux_wrkdir)/vmlinux-stripped
@@ -41,10 +42,12 @@ all: $(hex)
 	@echo Program it with: dd if=work/bbl.bin of=/dev/sd-your-card bs=1M
 	@echo
 
-$(toolchain_dest)/bin/$(target)-gcc: $(toolchain_srcdir)
-	mkdir -p $(toolchain_wrkdir)
-	cd $(toolchain_wrkdir); $(toolchain_srcdir)/configure --prefix=$(toolchain_dest)
-	$(MAKE) -C $(toolchain_wrkdir) linux
+@$(toolchain_dest)/bin/$(target)-gcc: $(toolchain_srcdir)
+$(toolchain_dest)/bin/$(target)-gcc:
+	export PATH=$(PATH):$(CURDIR)/toolchain/bin
+	@mkdir -p $(toolchain_wrkdir)
+	@cd $(toolchain_wrkdir); $(toolchain_srcdir)/configure --prefix=$(toolchain_dest)
+	@$(MAKE) -C $(toolchain_wrkdir) linux
 
 $(buildroot_tar): $(buildroot_srcdir) $(RISCV)/bin/$(target)-gcc
 	$(MAKE) -C $< RISCV=$(RISCV) PATH=$(PATH) O=$(buildroot_wrkdir) riscv64_defconfig

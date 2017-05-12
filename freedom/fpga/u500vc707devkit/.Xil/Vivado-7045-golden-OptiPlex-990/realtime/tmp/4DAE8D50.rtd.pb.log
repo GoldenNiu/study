@@ -1,0 +1,2 @@
+xilinx rtfpga
+INFO: [Synth 8-4480] The timing for the instance top/U500VC707DevKitSystem_1/xilinxvc707mig/blackbox/u_ddr_calib_topi_8/u_vc707mig_mig/u_memc_ui_top_axi/mem_intfc0/ddr_phy_top0/u_ddr_calib_top/ddr_phy_prbs_rdlvl_gen.u_ddr_phy_prbs_rdlvl/dec_cnt_reg (implemented as a block RAM) might be sub-optimal as no optional output register could be merged into the block ram. Providing additional output register may help in improving timing.

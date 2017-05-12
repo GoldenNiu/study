@@ -1,0 +1,19 @@
+b38f7c9 conf: include an SMP config with Radeon FB
+aa11f7e submodules: support SMP
+de94a8a submodules: bump
+5d38ed5 Makefile: don't waste precious initramfs space
+f3a86d9 linux: include new PTE format code
+2d533f1 linux: include boot keypress fix
+4c79962 use submodules for dependant toolchain
+22cd89c auto-build toolchain for those without one
+b206c48 submodules: move to sifive public repository
+f71b63b buildroot: demo image
+4a93e9e linux: include last needed PLIC fix
+1f61cb2 conf: support DHCP
+4c2e388 conf: support SATA SIL24 card
+9173de5 include new submodules
+ebf2ef0 build: use upstream kernel tarball
+b2d540a build: also create a .hex suitable for +loadmem
+f084b3f conf: enable PCIe + SATA + USB + network
+23e6a4a Bump riscv-pk
+869273a Add initial build infrastructure

@@ -1,0 +1,5 @@
+t             I56           T_706       1460 -2147483648 -2147483648       1460
+t U500VC707DevKitSystem_1_io_xilinxvc707mig_ui_clk           T_702       1460 -2147483648 -2147483648       1460
+s U500VC707DevKitSystem_1_io_xilinxvc707mig_ui_clk           T_702      12910 -2147483648 -2147483648      12910
+t     io_jtag_TCK U500VC707DevKitSystem_1_io_jtag_TRST       1460 -2147483648 -2147483648       1460
+t             I56   io_core_reset       1460 -2147483648 -2147483648       1460

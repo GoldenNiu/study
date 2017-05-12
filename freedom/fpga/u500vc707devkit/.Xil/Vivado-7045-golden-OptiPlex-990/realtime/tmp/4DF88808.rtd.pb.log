@@ -1,0 +1,5 @@
+xilinx rtfpga
+WARNING: [Synth 8-3936] Found unconnected internal register 'T_824_br_pc_reg' and it is trimmed from '39' to '2' bits. [/home/golden/study/freedom/builds/u500vc707devkit/sifive.freedom.unleashed.u500vc707devkit.U500VC707DevKitConfig.v:378610]
+WARNING: [Synth 8-3917] design RocketTile__GB1 has port io_uncached_0_b_ready driven by constant 1
+WARNING: [Synth 8-3917] design RocketTile__GB1 has port io_uncached_0_c_valid driven by constant 0
+WARNING: [Synth 8-3917] design RocketTile__GB1 has port io_uncached_0_e_valid driven by constant 0

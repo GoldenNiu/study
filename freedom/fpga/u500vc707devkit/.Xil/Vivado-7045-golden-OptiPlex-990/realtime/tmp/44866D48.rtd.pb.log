@@ -1,0 +1,4 @@
+xilinx rtfpga
+INFO: [Synth 8-4471] merging register 'Queue_9_1/ram_qos_reg[3:0]' into 'Queue_9_1/ram_cache_reg[3:0]'
+INFO: [Synth 8-4471] merging register 'Queue_12_1/ram_lock_reg[0:0]' into 'Queue_12_1/ram_id_reg[0:0]'
+INFO: [Synth 8-4471] merging register 'Queue_12_1/ram_qos_reg[3:0]' into 'Queue_12_1/ram_cache_reg[3:0]'

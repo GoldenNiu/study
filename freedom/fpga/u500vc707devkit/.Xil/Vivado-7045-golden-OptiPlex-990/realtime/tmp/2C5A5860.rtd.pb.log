@@ -1,0 +1,115 @@
+xilinx rtfpga
+WARNING: [Synth 8-3917] design mig_7series_v4_0_poc_top has port psincdec driven by constant 1
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port psen
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_lead_right[5]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_lead_right[4]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_lead_right[3]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_lead_right[2]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_lead_right[1]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_lead_right[0]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_trail_right[5]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_trail_right[4]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_trail_right[3]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_trail_right[2]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_trail_right[1]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_trail_right[0]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_lead_right[5]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_lead_right[4]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_lead_right[3]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_lead_right[2]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_lead_right[1]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_lead_right[0]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_trail_right[5]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_trail_right[4]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_trail_right[3]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_trail_right[2]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_trail_right[1]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_trail_right[0]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_lead_left[5]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_lead_left[4]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_lead_left[3]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_lead_left[2]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_lead_left[1]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_lead_left[0]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_trail_left[5]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_trail_left[4]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_trail_left[3]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_trail_left[2]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_trail_left[1]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_trail_left[0]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_lead_left[5]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_lead_left[4]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_lead_left[3]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_lead_left[2]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_lead_left[1]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_lead_left[0]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_trail_left[5]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_trail_left[4]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_trail_left[3]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_trail_left[2]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_trail_left[1]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_trail_left[0]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_lead_center[5]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_lead_center[4]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_lead_center[3]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_lead_center[2]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_lead_center[1]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_lead_center[0]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_trail_center[5]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_trail_center[4]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_trail_center[3]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_trail_center[2]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_trail_center[1]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port fall_trail_center[0]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_lead_center[5]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_lead_center[4]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_lead_center[3]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_lead_center[2]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_lead_center[1]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_lead_center[0]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_trail_center[5]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_trail_center[4]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_trail_center[3]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_trail_center[2]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_trail_center[1]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port rise_trail_center[0]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port samp_cntr[16]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port samps_hi[17]
+WARNING: [Synth 8-3331] design mig_7series_v4_0_poc_cc has unconnected port samps_hi_held[17]
+WARNING: [Synth 8-3332] Sequential element (u_poc_tap_base/samps_hi_held_r_reg[17]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_right/fall_lead_r_reg[5]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_right/fall_lead_r_reg[4]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_right/fall_lead_r_reg[3]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_right/fall_lead_r_reg[2]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_right/fall_lead_r_reg[1]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_right/fall_lead_r_reg[0]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_right/fall_trail_r_reg[5]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_right/fall_trail_r_reg[4]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_right/fall_trail_r_reg[3]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_right/fall_trail_r_reg[2]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_right/fall_trail_r_reg[1]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_right/fall_trail_r_reg[0]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_left/fall_lead_r_reg[5]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_left/fall_lead_r_reg[4]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_left/fall_lead_r_reg[3]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_left/fall_lead_r_reg[2]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_left/fall_lead_r_reg[1]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_left/fall_lead_r_reg[0]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_left/fall_trail_r_reg[5]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_left/fall_trail_r_reg[4]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_left/fall_trail_r_reg[3]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_left/fall_trail_r_reg[2]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_left/fall_trail_r_reg[1]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_left/fall_trail_r_reg[0]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_center/fall_lead_r_reg[5]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_center/fall_lead_r_reg[4]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_center/fall_lead_r_reg[3]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_center/fall_lead_r_reg[2]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_center/fall_lead_r_reg[1]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_center/fall_lead_r_reg[0]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_center/fall_trail_r_reg[5]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_center/fall_trail_r_reg[4]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_center/fall_trail_r_reg[3]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_center/fall_trail_r_reg[2]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_center/fall_trail_r_reg[1]) is unused and will be removed from module mig_7series_v4_0_poc_top.
+WARNING: [Synth 8-3332] Sequential element (u_edge_center/fall_trail_r_reg[0]) is unused and will be removed from module mig_7series_v4_0_poc_top.

@@ -1,0 +1,37 @@
+xilinx rtfpga
+WARNING: [Synth 8-3936] Found unconnected internal register 'req__addr_reg' and it is trimmed from '40' to '32' bits. [/home/golden/study/freedom/builds/u500vc707devkit/sifive.freedom.unleashed.u500vc707devkit.U500VC707DevKitConfig.v:329475]
+WARNING: [Synth 8-3936] Found unconnected internal register 'req__addr_reg' and it is trimmed from '40' to '32' bits. [/home/golden/study/freedom/builds/u500vc707devkit/sifive.freedom.unleashed.u500vc707devkit.U500VC707DevKitConfig.v:330796]
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (dcache/dtlb/r_req_instruction_reg)
+INFO: [Synth 8-3886] merging instance 'PTW_1/T_1455_2_reg[0]' (FDE) to 'PTW_1/T_1455_2_reg[1]'
+INFO: [Synth 8-3886] merging instance 'PTW_1/T_1455_2_reg[1]' (FDE) to 'PTW_1/T_1455_2_reg[2]'
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (\PTW_1/T_1455_2_reg[2] )
+INFO: [Synth 8-3886] merging instance 'PTW_1/T_1455_3_reg[0]' (FDE) to 'PTW_1/T_1455_3_reg[1]'
+INFO: [Synth 8-3886] merging instance 'PTW_1/T_1455_3_reg[1]' (FDE) to 'PTW_1/T_1455_3_reg[2]'
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (\PTW_1/T_1455_3_reg[2] )
+INFO: [Synth 8-3886] merging instance 'PTW_1/T_1455_0_reg[0]' (FDE) to 'PTW_1/T_1455_0_reg[1]'
+INFO: [Synth 8-3886] merging instance 'PTW_1/T_1455_0_reg[1]' (FDE) to 'PTW_1/T_1455_0_reg[2]'
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (\PTW_1/T_1455_0_reg[2] )
+INFO: [Synth 8-3886] merging instance 'PTW_1/T_1455_1_reg[0]' (FDE) to 'PTW_1/T_1455_1_reg[1]'
+INFO: [Synth 8-3886] merging instance 'PTW_1/T_1455_1_reg[1]' (FDE) to 'PTW_1/T_1455_1_reg[2]'
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (\PTW_1/T_1455_1_reg[2] )
+INFO: [Synth 8-3886] merging instance 'PTW_1/T_1455_7_reg[0]' (FDE) to 'PTW_1/T_1455_7_reg[1]'
+INFO: [Synth 8-3886] merging instance 'PTW_1/T_1455_7_reg[1]' (FDE) to 'PTW_1/T_1455_7_reg[2]'
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (\PTW_1/T_1455_7_reg[2] )
+INFO: [Synth 8-3886] merging instance 'PTW_1/T_1455_6_reg[0]' (FDE) to 'PTW_1/T_1455_6_reg[1]'
+INFO: [Synth 8-3886] merging instance 'PTW_1/T_1455_6_reg[1]' (FDE) to 'PTW_1/T_1455_6_reg[2]'
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (\PTW_1/T_1455_6_reg[2] )
+INFO: [Synth 8-3886] merging instance 'PTW_1/T_1455_4_reg[0]' (FDE) to 'PTW_1/T_1455_4_reg[1]'
+INFO: [Synth 8-3886] merging instance 'PTW_1/T_1455_4_reg[1]' (FDE) to 'PTW_1/T_1455_4_reg[2]'
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (\PTW_1/T_1455_4_reg[2] )
+INFO: [Synth 8-3886] merging instance 'PTW_1/T_1455_5_reg[0]' (FDE) to 'PTW_1/T_1455_5_reg[1]'
+INFO: [Synth 8-3886] merging instance 'PTW_1/T_1455_5_reg[1]' (FDE) to 'PTW_1/T_1455_5_reg[2]'
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (\PTW_1/T_1455_5_reg[2] )
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (dcache/s2_recycle_next_reg)
+INFO: [Synth 8-3886] merging instance 'dcache/mshrs/mmios_0/req_addr_reg[32]' (FDE) to 'dcache/mshrs/mmios_0/req_addr_reg[33]'
+INFO: [Synth 8-3886] merging instance 'dcache/mshrs/mmios_0/req_addr_reg[33]' (FDE) to 'dcache/mshrs/mmios_0/req_addr_reg[34]'
+INFO: [Synth 8-3886] merging instance 'dcache/mshrs/mmios_0/req_addr_reg[34]' (FDE) to 'dcache/mshrs/mmios_0/req_addr_reg[35]'
+INFO: [Synth 8-3886] merging instance 'dcache/mshrs/mmios_0/req_addr_reg[35]' (FDE) to 'dcache/mshrs/mmios_0/req_addr_reg[36]'
+INFO: [Synth 8-3886] merging instance 'dcache/mshrs/mmios_0/req_addr_reg[36]' (FDE) to 'dcache/mshrs/mmios_0/req_addr_reg[37]'
+INFO: [Synth 8-3886] merging instance 'dcache/mshrs/mmios_0/req_addr_reg[37]' (FDE) to 'dcache/mshrs/mmios_0/req_addr_reg[38]'
+INFO: [Synth 8-3886] merging instance 'dcache/mshrs/mmios_0/req_addr_reg[38]' (FDE) to 'dcache/mshrs/mmios_0/req_addr_reg[39]'
+INFO: [Synth 8-3333] propagating constant 0 across sequential element (dcache/mshrs/\mmios_0/req_addr_reg[39] )

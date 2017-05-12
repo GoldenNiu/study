@@ -1,0 +1,7 @@
+xilinx rtfpga
+WARNING: [Synth 8-3917] design U500VC707DevKitSystem__GC0 has port l2_io_in_0_b_valid driven by constant 0
+WARNING: [Synth 8-3917] design U500VC707DevKitSystem__GC0 has port l2_io_out_0_c_valid driven by constant 0
+WARNING: [Synth 8-3917] design U500VC707DevKitSystem__GC0 has port l2_io_out_0_e_valid driven by constant 0
+WARNING: [Synth 8-3917] design U500VC707DevKitSystem__GC0 has port xilinxvc707pcie_io_slave_in_0_b_ready driven by constant 1
+WARNING: [Synth 8-3917] design U500VC707DevKitSystem__GC0 has port xilinxvc707pcie_io_slave_in_0_c_valid driven by constant 0
+WARNING: [Synth 8-3917] design U500VC707DevKitSystem__GC0 has port xilinxvc707pcie_io_slave_in_0_e_valid driven by constant 0
