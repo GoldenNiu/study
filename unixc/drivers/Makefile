@@ -1,4 +1,4 @@
-obj-m := hello.o
+obj-m := hellop.o
 KERNELDR := /usr/src/linux-headers-4.4.0-31-generic 
 PWD := $(shell pwd)
 modules:

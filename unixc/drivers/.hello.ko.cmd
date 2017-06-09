@@ -1,1 +1,0 @@
-cmd_/home/golden/study/unixc/drivers/hello.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/golden/study/unixc/drivers/hello.ko /home/golden/study/unixc/drivers/hello.o /home/golden/study/unixc/drivers/hello.mod.o
